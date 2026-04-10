@@ -740,6 +740,7 @@
 				)
 			)
 		)
+
 		(property "Footprint" "doit-esp32-devkit-kicad:ESP32-DEVKIT-V1_30pin"
 			(at -1.27 11.43 0)
 			(effects
